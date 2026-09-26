@@ -71,4 +71,4 @@ java -jar target/AgenciaViagens-1.0-SNAPSHOT.jar
 ## 👤 Autor
 
 Desenvolvido por **Eduardo Amaral**  
-[GitHub Profile](https://github.com/Ravz7)
+[GitHub Profile](https://github.com/Ravz7) | [LinkedIn](https://www.linkedin.com/in/eduardo-amaral-de-morais-2785a53a0/)
